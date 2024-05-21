@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsrithaDevaram
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning java
-- ✨ Present,I'm working as Intern
+- ✨ Present, I'm working as Intern
   
 
 <!---
